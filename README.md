@@ -1,7 +1,7 @@
 # Ex02 Django ORM Web Application
 # Date:
 # AIM
-To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from a car dealership database using Object Relational Mapping(ORM).
 
 # ENTITY RELATIONSHIP DIAGRAM
 ## DESIGN STEPS
@@ -15,7 +15,7 @@ Create a new app in Django project
 Enter the code for admin.py and models.py
 
 ## STEP 4:
-Execute Django admin and create details for 10 books
+Execute Django admin and create details for cars.
 
 # PROGRAM
 # OUTPUT
